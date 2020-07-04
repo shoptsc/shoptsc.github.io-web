@@ -87,8 +87,14 @@ a:active{
 }
 @media screen and (max-width:750px){
     .tab2{
-    float:left;
     width:35%;
     height: 700px;
     }
+}
+@media screen and (max-width:750px){
+    h1{
+    font-size:30px;
+    color:rgba(220,220,220,1);
+    text-align:left;
+}
 }
