@@ -1,0 +1,41 @@
+body{
+    font-family:cursive;
+    color:rgb(105, 105,105);
+}
+
+div{
+    background-color:rgb(211, 211, 211);
+    margin:40px;
+    display:block;
+    padding: 0 10px 0 10px;
+}
+#headings{
+    text-align:center;
+}
+#Aristotle{
+    border:1px solid #C0C0C0;
+    border-radius:3px;
+    text-align:center;
+   }
+.responsive{
+    border-radius: 270px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+figure{
+    border:1px solid #C0C0C0;
+    border-radius:3px;
+    margin: 0 2px 0 2px;
+    text-align:center;
+}
+figcaption{
+    background-color:rgb(169, 169, 169);
+    margin: 0 5px 5px 5px;
+}
+#last{
+    text-align:center;
+    padding:0 0 30px 0;
+    font-style: italic;
+}
